@@ -21,5 +21,10 @@ namespace borrame_aplicacionprueba
         {
 
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
